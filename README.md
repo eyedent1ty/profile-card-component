@@ -13,4 +13,4 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Repository](https://github.com/eyedent1ty/profile-card-component)
-- Live Site URL: [See Live]()
+- Live Site URL: [See Live](https://eyedent1ty-profile-card-component.netlify.app/)
